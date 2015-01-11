@@ -1,0 +1,7 @@
+name             'dokku-alt'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures dokku-alt'
+long_description 'Installs/Configures dokku-alt'
+version          '0.1.0'
