@@ -1,12 +1,3 @@
-#
-# Cookbook Name:: dokku-alt
-# Recipe:: default
-#
-# Copyright (C) 2015 YOUR_NAME
-#
-# All rights reserved - Do Not Redistribute
-#
-
 apt_package "apt-transport-https"
 
 apt_repository "docker" do
